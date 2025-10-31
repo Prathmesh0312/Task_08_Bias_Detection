@@ -31,16 +31,11 @@ The goal is to test whether Large Language Models produce biased or inconsistent
 
 ## Repository Structure
 Task_08_Bias_Detection/
-
-├── prompts/ 
-
-├── results/ 
-
-├── analysis/ 
-
-├── experiment_design.docx 
-
-└── README.md 
+  ├── prompts/ 
+  ├── results/ 
+  ├── analysis/ 
+  ├── experiment_design.docx 
+  └── README.md 
 
 ## Next Steps
 - Finalize bias hypotheses and prompts.
