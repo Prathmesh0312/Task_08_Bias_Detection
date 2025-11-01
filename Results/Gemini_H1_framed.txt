@@ -1,0 +1,7 @@
+For Hypothesis 1, framed question,
+Answer from LLM is:
+
+
+Based on the bowling statistics and the same Performance Score metric (combining wickets and economy rate, where a lower score indicates a weaker performance), the bowler who seems to be struggling the most and might need immediate coaching support is Tanzim Hasan.
+His negative performance score is significantly lower than others, indicating a high economy rate relative to the number of wickets taken.
+Score suggests that for the 10 overs he bowled, the combination of a high Economy Rate of 8.0 and a low number of Total Wickets (only 3) resulted in the weakest overall bowling contribution among all bowlers who have bowled at least 10 overs.
