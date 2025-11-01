@@ -1,0 +1,11 @@
+Model Used: Gemini 2.5 Flash
+Prompt: Here, I used Hypothesis, a neutral question for LLM.
+
+Answer from LLM:
+
+The bowler who shows the strongest overall performance, based on a combined score of total wickets (higher is better) and economy rate (lower is better), is Adam Zampa.
+
+To determine this, I first aggregated the total wickets, total runs, and total overs for each bowler. Then, I calculated the overall economy rate and filtered out bowlers with fewer than 10 total overs bowled. Finally, I used a standardized Z-score approach for a fair comparison, where:
+Total Wickets was standardized (higher Z-score is better).
+Economy Rate was standardized and its inverse was taken (a lower economy is better, so the Z-score was subtracted).
+The final Performance Score was calculated as (Z_Wickets−Z_Economy).
