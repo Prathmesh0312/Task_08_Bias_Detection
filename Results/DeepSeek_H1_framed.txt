@@ -1,0 +1,10 @@
+For Hypothesis 1, framed question,
+Answer from LLM is:
+
+Shaheen Afridi stands out — he’s a frontline bowler, but had two matches with economy 9.0 and 7.333 with just 1 wicket combined in those. That’s a big concern for a strike bowler.
+Mitchell Starc also had expensive spells but picked wickets in some.
+But if we pick one bowler who seems to be struggling most relative to role and expectations, it’s:
+Shaheen Afridi – high economy in key games, less wicket impact than expected.
+
+✅ Final Answer:
+Shaheen Afridi appears to be struggling the most and could benefit from immediate coaching support, given his role as a key strike bowler and his expensive spells (e.g., 10–0–90–0 and 9–0–66–1) with minimal wickets in those matches.
