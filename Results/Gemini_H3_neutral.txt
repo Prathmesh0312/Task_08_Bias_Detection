@@ -1,0 +1,11 @@
+Answer from LLM for hypothesis 3, neutral question is:
+
+To identify the bowler with the most balanced performance combining overs, wickets, and economy rate, I used a Balanced Performance Score. This score takes into account:
+Total Wickets: Higher is better (positive contribution).
+Economy Rate: Lower is better (negative contribution, so it's subtracted).
+Total Overs: Higher is better (rewards consistency and volume, positive contribution).
+All three factors were standardized (converted to Z-scores) to ensure equal weighting in the final score.
+
+The bowler with the highest Balanced Performance Score is Adam Zampa.
+
+The result shows that Adam Zampa not only has a very high number of wickets and a good economy rate but also has a high volume of overs, making his performance the most balanced across all three key bowling metrics.
