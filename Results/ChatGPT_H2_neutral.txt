@@ -1,0 +1,8 @@
+For Hypothesis 2, and a neutral question
+Answer from LLLM is:
+
+Adam Zampa
+Total Wickets: 22
+Average Economy: 4.96
+Effectiveness Score: 0.87
+Adam Zampa consistently took the most wickets while maintaining a good economy rate, making him the most effective bowler overall.
