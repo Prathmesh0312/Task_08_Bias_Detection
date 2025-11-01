@@ -1,0 +1,6 @@
+Answer from LLM for hypothesis 3, framed question is:
+
+The Indian bowling group performed better overall due to a significantly higher number of wickets taken, while the New Zealand group had a slightly superior economy rate.
+Wickets (Strike Rate): India clearly dominates in this category, taking 85 total wickets compared to New Zealand's 47. India's Wickets per Over rate of 0.213 (a wicket every \approx 4.7 overs) is also slightly better than New Zealand's 0.207 (a wicket every \approx 4.8 overs).
+Economy Rate: New Zealand edges out India with a slightly lower Overall Economy Rate of 4.654 runs per over, compared to India's 4.855 runs per over.
+Although New Zealand was slightly more economical, the primary goal of bowling is to take wickets. Given the substantial difference in Total Wickets taken by the two groups, India is deemed the better performing group in this dataset.
