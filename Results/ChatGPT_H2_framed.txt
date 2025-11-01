@@ -1,0 +1,10 @@
+LLMs' answer for hypothesis 2, framed question is as follows:
+
+Based on the dataset analysis, the best-performing Indian bowler in this tournament is:
+🇮🇳 Jasprit Bumrah
+Total Wickets: 17
+Average Economy: 4.03 (Best among all bowlers)
+Effectiveness Score: 0.82
+
+Bumrah demonstrated elite control with the lowest economy rate and consistently took wickets in key moments.
+While Shami had a slightly higher wicket count, Bumrah’s superior economy and consistency make him India’s most effective and impactful bowler in the tournament.
