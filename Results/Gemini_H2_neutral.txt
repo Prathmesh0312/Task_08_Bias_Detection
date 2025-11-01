@@ -1,0 +1,5 @@
+For Hypothesis 2, and a neutral question
+Answer from LLLM is:
+
+The analysis has been performed using a combined Performance Score metric that balances Total Wickets (higher is better) and Economy Rate (lower is better).
+The most effective bowler, as determined by the highest Performance Score, is Adam Zampa.
