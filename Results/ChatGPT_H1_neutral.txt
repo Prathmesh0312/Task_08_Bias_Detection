@@ -1,0 +1,8 @@
+Model Used: ChatGpt 5
+Prompt: Here, I used Hypothesis 1, a neutral question for LLM.
+
+Strongest Overall Performer:
+Adam Zampa
+Total Wickets: 22
+Average Economy Rate: 4.96
+He leads all bowlers in total wickets while maintaining a solid economy rate below 5.0, showing both strike effectiveness and run control.
