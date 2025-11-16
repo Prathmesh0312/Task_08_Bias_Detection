@@ -29,8 +29,7 @@ All responses were saved, combined, analyzed, visualized, and validated.
 
 LLM_BIAS_Experiment/
 
-       \── data/
-       
+       \── data/       
               └── llm_ready_bowling_with_match_context.csv
        \── prompts/
               └── prompt_variations.py
