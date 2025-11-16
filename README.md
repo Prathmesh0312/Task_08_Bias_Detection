@@ -1,11 +1,62 @@
 # Task_08_Bias_Detection
 
-This repository contains my work for Research Task 08 – Bias Detection in LLM Data Narratives, using the same cricket bowling dataset analyzed in Task 07.
+## *Bias Detection in LLM-Generated Data Narratives*
 
+This project tests how different Large Language Models (LLMs) respond to the same dataset when the questions are worded differently.
+The goal is to see whether models change their answers based on framing, assumptions, or nationality cues in the prompt, even though the data never changes.
+
+Three LLMs were used:
+
+ChatGPT
+
+Gemini
+
+DeepSeek
+
+Three types of biases were tested:
+
+Framing bias
+
+Confirmation bias
+
+Nationality influence bias
+
+All responses were saved, combined, analyzed, visualized, and validated.
 ---
 
-## Overview
-The goal is to test whether Large Language Models produce biased or inconsistent narratives when analyzing identical cricket data under different prompt framings or demographic cues.
+## Project folder Structure
+
+
+LLM_BIAS_Experiment/
+│
+├── data/
+│   └── llm_ready_bowling_with_match_context.csv
+│
+├── prompts/
+│   └── prompt_variations.py
+│
+├── results/
+│   ├── chatgpt_bias_results.csv
+│   ├── gemini_bias_results.csv
+│   ├── deepseek_bias_results.csv
+│   └── all_models_combined.csv
+│
+├── analysis/
+│   ├── sentiment_summary.csv
+│   ├── entity_counts.csv
+│   ├── combined_sentiment_entity.csv
+│   └── validation_report.csv
+│
+├── notebooks/
+│   └── visualize_bias.ipynb
+│
+├── scripts/
+│   ├── run_experiment.py
+│   ├── analyze_bias.py
+│   └── validate_claims.py
+│
+└── REPORT.md
+
 
 ---
 
@@ -16,34 +67,79 @@ The goal is to test whether Large Language Models produce biased or inconsistent
 
 ---
 
-## Planned LLMs
-- ChatGPT
-- DeepSeek
-- Gemini 1.5 Pro
+## Install requirements
+
+Use a virtual environment or run directly
+
+pip install pandas numpy matplotlib seaborn textblob
+
 
 ---
 
-### Experimental Design
-- Defined the experiment structure and process.
-- Preparing 3 to 5 bias hypotheses and prompt pairs.
-- Setting unbiased ground-truth references using verified cricket statistics.
-- Creating repository folders for prompts, results, and analysis logs.
+### Running Project
+- 1 Generate prompt variations
+  Prompts are already created in : prompts/prompt_variations.py
+  
+- 2 Run the experiment using your own API Key
+  If you want to automatically call LLMs: python scripts/run_experiment.py
+  This generates CSV files in the results folder.
+  
+- 3 Combine and analyze responses
+  Analyze sentiment, mentioned players, and patterns: python scripts/analyze_bias.py
+  This creates:
 
-## Repository Structure
-Task_08_Bias_Detection/
+    sentiment_summary.csv
 
-  ├── prompts/ 
-  
-  ├── results/ 
-  
-  ├── analysis/ 
-  
-  ├── experiment_design.docx 
-  
-  └── README.md 
+    entity_counts.csv
 
-## Next Steps
-- Finalize bias hypotheses and prompts.
-- Run tests across 2 to 3 LLMs in Week 2.
-- Analyze patterns quantitatively and qualitatively.
-- Create final bias detection report 
+    combined_sentiment_entity.csv
+  
+- 4 Validate the Accuracy and Check Hallucinations
+  This script checks:
+
+    whether the model mentioned real players
+
+  whether stats (wickets/economy) were correct
+
+  whether nationality is mentioned
+
+  hallucinated players not in the dataset
+
+Run: python scripts/validate_claims.py
+Output saved in: analysis/validation_report.csv
+
+- 5 Visualization results
+  notebooks/visualize_bias.ipynb
+
+## How to Add More Models or More Hypotheses
+In run_experiment.py, add your new model ID:
+
+    models = [
+        "deepseek/deepseek-r1:free",
+        "google/gemini-flash-1.5",
+        "openai/gpt-4o-mini"
+    ]
+
+
+
+## Academic Notes
+
+This work satisfies the following requirements:
+
+Experiment design
+
+Hypotheses
+
+Prompt variations
+
+Data collection
+
+Analysis
+
+Visualizations
+
+Bias detection
+
+Mitigation ideas
+
+Final report
