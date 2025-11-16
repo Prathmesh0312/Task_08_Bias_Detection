@@ -28,55 +28,38 @@ All responses were saved, combined, analyzed, visualized, and validated.
 
 
 LLM_BIAS_Experiment/
-│
-
-├── data/
-
-       └── llm_ready_bowling_with_match_context.csv
-│
-
-├── prompts/
-
-       └── prompt_variations.py
-│
-
-├── results/
-
-       ├── chatgpt_bias_results.csv
-       ├── gemini_bias_results.csv
-       ├── deepseek_bias_results.csv
-       └── all_models_combined.csv
-
-│
-
-├── analysis/
-
-       ├── sentiment_summary.csv
-
-       ├── entity_counts.csv
-
-       ├── combined_sentiment_entity.csv
-
-       └── validation_report.csv
-│
-
-├── notebooks/
-
-       └── visualize_bias.ipynb
-
-│
-
-├── scripts/
-
-       ├── run_experiment.py
-
-       ├── analyze_bias.py
-
-       └── validate_claims.py
-
-│
-
-└── REPORT.md
+       ── data/
+       
+              └── llm_ready_bowling_with_match_context.csv
+       
+       ── prompts/
+       
+              └── prompt_variations.py
+       ── results/
+       
+              ├── chatgpt_bias_results.csv
+              ├── gemini_bias_results.csv
+              ├── deepseek_bias_results.csv
+              └── all_models_combined.csv
+       ── analysis/
+       
+              ├── sentiment_summary.csv
+       
+              ├── entity_counts.csv
+       
+              ├── combined_sentiment_entity.csv
+       
+              └── validation_report.csv
+       ── notebooks/
+       
+              └── visualize_bias.ipynb
+       ── scripts/
+       
+              ├── run_experiment.py
+              ├── analyze_bias.py
+              └── validate_claims.py
+       
+       └── REPORT.md
 
 
 ---
