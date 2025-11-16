@@ -27,7 +27,6 @@ All responses were saved, combined, analyzed, visualized, and validated.
 
 ## Project folder Structure
 
-
 LLM_BIAS_Experiment/
 
        \── data/       
