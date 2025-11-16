@@ -80,22 +80,22 @@ pip install pandas numpy matplotlib seaborn textblob
   Analyze sentiment, mentioned players, and patterns: python scripts/analyze_bias.py
   This creates:
 
-    sentiment_summary.csv
+    -sentiment_summary.csv
 
-    entity_counts.csv
+    -entity_counts.csv
 
-    combined_sentiment_entity.csv
+    -combined_sentiment_entity.csv
   
 - 4) Validate the Accuracy and Check Hallucinations
   This script checks:
 
-    whether the model mentioned real players
+    -whether the model mentioned real players
 
-  whether stats (wickets/economy) were correct
+    -whether stats (wickets/economy) were correct
 
-  whether nationality is mentioned
+    -whether nationality is mentioned
 
-  hallucinated players not in the dataset
+    -hallucinated players not in the dataset
 
 Run: python scripts/validate_claims.py
 Output saved in: analysis/validation_report.csv
