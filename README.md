@@ -27,7 +27,7 @@ All responses were saved, combined, analyzed, visualized, and validated.
 
 ## Project folder Structure
 
-       LLM_BIAS_Experiment/
+       LLM_BIAS_Experiment\
               \── data/       
                      └── llm_ready_bowling_with_match_context.csv
               \── prompts/
