@@ -31,22 +31,27 @@ The graphs helped show clear differences in tone, player mentions, and how stron
 **7. Bias Catalogue**
 
 Framing bias
+
 Models became more negative when the prompt used negative wording.
 Seen in all three models.
 
 Confirmation bias
+
 When told that Indian bowlers dominated, models picked Indian players more often.
 Strongest in Gemini.
 
 Nationality bias
+
 Indian bowlers are mentioned more frequently across prompts.
 Mild but consistent.
 
 Hallucinations
+
 Some players were mentioned who did not exist in the dataset.
 Occasionally across models.
 
 Stat mistakes
+
 Some economy or wicket numbers were inaccurate or missing.
 Mostly small errors.
 
