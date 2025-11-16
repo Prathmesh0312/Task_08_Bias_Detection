@@ -28,37 +28,28 @@ All responses were saved, combined, analyzed, visualized, and validated.
 
 
 LLM_BIAS_Experiment/
-       ── data/
+
+       \── data/
        
               └── llm_ready_bowling_with_match_context.csv
-       
-       ── prompts/
-       
+       \── prompts/
               └── prompt_variations.py
-       ── results/
-       
+       \── results/
               ├── chatgpt_bias_results.csv
               ├── gemini_bias_results.csv
               ├── deepseek_bias_results.csv
               └── all_models_combined.csv
-       ── analysis/
-       
+       \── analysis/
               ├── sentiment_summary.csv
-       
               ├── entity_counts.csv
-       
               ├── combined_sentiment_entity.csv
-       
               └── validation_report.csv
-       ── notebooks/
-       
+       \── notebooks/
               └── visualize_bias.ipynb
-       ── scripts/
-       
+       \── scripts/
               ├── run_experiment.py
               ├── analyze_bias.py
               └── validate_claims.py
-       
        └── REPORT.md
 
 
