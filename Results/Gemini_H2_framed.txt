@@ -1,8 +1,0 @@
-LLMs' answer for hypothesis 2, framed question is as follows:
-
-
-Based on the combined metric of Total Wickets (higher is better) and Economy Rate (lower is better) using a standardized performance score, the best-performing Indian bowler is Jasprit Bumrah.
-His high number of wickets combined with an exceptionally low economy rate among the Indian bowlers resulted in the highest overall performance score.
-
-Bowler, Total Wickets, Total Overs, Economy Rate, Performance Score
-Jasprit Bumrah, 17, 77.5, 4.155, 1.828

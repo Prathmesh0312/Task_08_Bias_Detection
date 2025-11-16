@@ -1,9 +1,0 @@
-For Hypothesis 1, framed question,
-Answer from LLM is:
-
-Struggling Bowler (Needs Immediate Coaching Support)
-Maheesh Theekshana
-Total Wickets: 2
-Average Economy Rate: 4.54
-Overs Bowled: 28.2
-Despite bowling a fair number of overs, Theekshana has taken very few wickets, indicating issues with strike effectiveness. His economy rate is moderate but not backed by wicket-taking impact, suggesting he struggles to create breakthroughs.

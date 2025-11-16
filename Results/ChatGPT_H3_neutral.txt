@@ -1,9 +1,0 @@
-Answer from LLM for hypothesis 3, neutral question is:
-
-Adam Zampa
-Overs Bowled: 78.0
-Total Wickets: 22
-Average Economy: 4.96
-Balanced Performance Score: 0.89
-
-Adam Zampa shows the most balanced performance, combining a high workload (overs), strong wicket count, and good economy.
