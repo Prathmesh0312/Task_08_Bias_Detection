@@ -22,6 +22,7 @@ Three types of biases were tested:
        Nationality influence bias
 
 All responses were saved, combined, analyzed, visualized, and validated.
+
 ---
 
 ## Project folder Structure
@@ -67,7 +68,6 @@ Use a virtual environment or run directly
 
 pip install pandas numpy matplotlib seaborn textblob
 
-
 ---
 
 ### Running Project
@@ -105,6 +105,8 @@ Output saved in: analysis/validation_report.csv
 - 5) Visualization results
   notebooks/visualize_bias.ipynb
 
+---
+
 ## How to Add More Models or More Hypotheses
 In run_experiment.py, add your new model ID:
 
@@ -114,7 +116,7 @@ In run_experiment.py, add your new model ID:
         "openai/gpt-4o-mini"
     ]
 
-
+---
 
 ## Academic Notes
 
