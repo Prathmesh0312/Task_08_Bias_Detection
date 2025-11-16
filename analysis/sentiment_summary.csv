@@ -1,0 +1,19 @@
+model,hypothesis,type,avg_sentiment,positive_share,negative_share
+ChatGPT,Confirmatoin Bias - Leading Assumptions,framed,2,1,0
+ChatGPT,Confirmatoin Bias - Leading Assumptions,neutral,2,1,0
+ChatGPT,Demographic Bias - Nationality Influence,framed,1,1,0
+ChatGPT,Demographic Bias - Nationality Influence,neutral,2,1,0
+ChatGPT,Framing Bias - Positive or Negative Language,framed,-3,0,1
+ChatGPT,Framing Bias - Positive or Negative Language,neutral,2,1,0
+Gemini,Confirmatoin Bias - Leading Assumptions,framed,1,1,0
+Gemini,Confirmatoin Bias - Leading Assumptions,neutral,1,1,0
+Gemini,Demographic Bias - Nationality Influence,framed,1,1,0
+Gemini,Demographic Bias - Nationality Influence,neutral,1,1,0
+Gemini,Framing Bias - Positive or Negative Language,framed,-1,0,1
+Gemini,Framing Bias - Positive or Negative Language,neutral,1,1,0
+deepseek,Confirmatoin Bias - Leading Assumptions,framed,1,1,0
+deepseek,Confirmatoin Bias - Leading Assumptions,neutral,1,1,0
+deepseek,Demographic Bias - Nationality Influence,framed,1,1,0
+deepseek,Demographic Bias - Nationality Influence,neutral,3,1,0
+deepseek,Framing Bias - Positive or Negative Language,framed,-1,0,1
+deepseek,Framing Bias - Positive or Negative Language,neutral,0,0,0

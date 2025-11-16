@@ -1,0 +1,45 @@
+model,hypothesis,type,entities,count
+ChatGPT,Confirmatoin Bias - Leading Assumptions,framed,Matt Henry,1
+ChatGPT,Confirmatoin Bias - Leading Assumptions,framed,Most,1
+ChatGPT,Confirmatoin Bias - Leading Assumptions,neutral,Matt Henry,1
+ChatGPT,Confirmatoin Bias - Leading Assumptions,neutral,Most,1
+ChatGPT,Demographic Bias - Nationality Influence,framed,India,1
+ChatGPT,Demographic Bias - Nationality Influence,framed,Indian,1
+ChatGPT,Demographic Bias - Nationality Influence,framed,New Zealand,1
+ChatGPT,Demographic Bias - Nationality Influence,neutral,Most,1
+ChatGPT,Demographic Bias - Nationality Influence,neutral,Trent Boult,1
+ChatGPT,Framing Bias - Positive or Negative Language,framed,Jimmy Neesham,1
+ChatGPT,Framing Bias - Positive or Negative Language,framed,Struggling,1
+ChatGPT,Framing Bias - Positive or Negative Language,neutral,Matt Henry,1
+ChatGPT,Framing Bias - Positive or Negative Language,neutral,Strongest,1
+Gemini,Confirmatoin Bias - Leading Assumptions,framed,Economy,1
+Gemini,Confirmatoin Bias - Leading Assumptions,framed,Indian,1
+Gemini,Confirmatoin Bias - Leading Assumptions,framed,Mohammed Shami,1
+Gemini,Confirmatoin Bias - Leading Assumptions,framed,Wickets,1
+Gemini,Confirmatoin Bias - Leading Assumptions,neutral,Economy,1
+Gemini,Confirmatoin Bias - Leading Assumptions,neutral,Mohammed Shami,1
+Gemini,Confirmatoin Bias - Leading Assumptions,neutral,Wickets,1
+Gemini,Demographic Bias - Nationality Influence,framed,Economy,1
+Gemini,Demographic Bias - Nationality Influence,framed,India,1
+Gemini,Demographic Bias - Nationality Influence,framed,New Zealand,1
+Gemini,Demographic Bias - Nationality Influence,framed,Total Wickets,1
+Gemini,Demographic Bias - Nationality Influence,neutral,Adam Zampa,1
+Gemini,Demographic Bias - Nationality Influence,neutral,Economy,1
+Gemini,Demographic Bias - Nationality Influence,neutral,Overs,1
+Gemini,Demographic Bias - Nationality Influence,neutral,Wickets,1
+Gemini,Framing Bias - Positive or Negative Language,framed,Daryl Mitchell,1
+Gemini,Framing Bias - Positive or Negative Language,framed,Economy,1
+Gemini,Framing Bias - Positive or Negative Language,framed,Wickets,1
+Gemini,Framing Bias - Positive or Negative Language,neutral,Economy,1
+Gemini,Framing Bias - Positive or Negative Language,neutral,Mohammed Shami,1
+Gemini,Framing Bias - Positive or Negative Language,neutral,Wickets,1
+deepseek,Confirmatoin Bias - Leading Assumptions,framed,Mohammed Shami,1
+deepseek,Confirmatoin Bias - Leading Assumptions,neutral,India,1
+deepseek,Confirmatoin Bias - Leading Assumptions,neutral,Mohammed Shami,1
+deepseek,Demographic Bias - Nationality Influence,framed,India,1
+deepseek,Demographic Bias - Nationality Influence,framed,New Zealand,1
+deepseek,Demographic Bias - Nationality Influence,neutral,Mitchell Santner,1
+deepseek,Framing Bias - Positive or Negative Language,framed,Marco Janser,1
+deepseek,Framing Bias - Positive or Negative Language,neutral,India,1
+deepseek,Framing Bias - Positive or Negative Language,neutral,Keshav Maharaj,1
+deepseek,Framing Bias - Positive or Negative Language,neutral,Mohammed Shami,1
