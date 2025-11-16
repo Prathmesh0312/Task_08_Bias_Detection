@@ -116,7 +116,7 @@ In run_experiment.py, add your new model ID:
 
 ---
 
-## Academic Notes
+## Note
 
 This work satisfies the following requirements:
 
