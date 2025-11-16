@@ -69,14 +69,14 @@ pip install pandas numpy matplotlib seaborn textblob
 ---
 
 ### Running Project
-- 1) Generate prompt variations
+-  Generate prompt variations
   Prompts are already created in : prompts/prompt_variations.py
   
-- 2) Run the experiment using your own API Key
+-  Run the experiment using your own API Key
   If you want to automatically call LLMs: python scripts/run_experiment.py
   This generates CSV files in the results folder.
   
-- 3) Combine and analyze responses
+-  Combine and analyze responses
   Analyze sentiment, mentioned players, and patterns: python scripts/analyze_bias.py
   This creates:
 
@@ -86,7 +86,7 @@ pip install pandas numpy matplotlib seaborn textblob
 
     -combined_sentiment_entity.csv
   
-- 4) Validate the Accuracy and Check Hallucinations
+-  Validate the Accuracy and Check Hallucinations
   This script checks:
 
     -whether the model mentioned real players
@@ -100,7 +100,7 @@ pip install pandas numpy matplotlib seaborn textblob
 Run: python scripts/validate_claims.py
 Output saved in: analysis/validation_report.csv
 
-- 5) Visualization results
+-  Visualization results
   notebooks/visualize_bias.ipynb
 
 ---
