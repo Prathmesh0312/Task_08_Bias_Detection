@@ -7,19 +7,19 @@ The goal is to see whether models change their answers based on framing, assumpt
 
 Three LLMs were used:
 
-ChatGPT
-
-Gemini
-
-DeepSeek
+       ChatGPT
+       
+       Gemini
+       
+       DeepSeek
 
 Three types of biases were tested:
 
-Framing bias
-
-Confirmation bias
-
-Nationality influence bias
+       Framing bias
+       
+       Confirmation bias
+       
+       Nationality influence bias
 
 All responses were saved, combined, analyzed, visualized, and validated.
 ---
